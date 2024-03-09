@@ -7,7 +7,7 @@ description: Justin Croser's personal webpage
 lang: en
 locale: en_GB
 url: "https://justincroser.com"
-git_web_base: https://github.com/justincroser/homepage/blob/HEAD/
+git_web_base: https://github.com/justincroser.github.io/homepage/blob/HEAD/
 baseurl: ""
 permalink: :title
 
