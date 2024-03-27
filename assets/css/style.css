@@ -1,7 +1,7 @@
 /* Import the main SimpleCSS stylesheet */
 @import url("https://cdn.simplecss.org/simple.min.css");
 
-/* Overwrite simple.css colours with Mastodon colours */
+/* Overwrite simple.css colours with own colours */
 :root {
   --bg: #282d37;
   --accent-bg: #1F232B;
