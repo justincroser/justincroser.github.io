@@ -3,17 +3,17 @@
 
 /* Overwrite simple.css colours with own colours */
 :root {
-  --bg: #282d37;
-  --accent-bg: #1F232B;
-  --text: #d9e1e8;
-  --text-light: #9baec8;
+  --bg: #02573d;
+  --accent-bg: #006241;
+  --text: #ffd300;
+  --text-light: #808080;
   --dark-red: #951818;
-  --border: #9baec8;
-  --accent: #858AFA;
-  --code: #F06292;
-  --preformatted: #9baec8;
-  --marked: #79b9e7;
-  --disabled: #282d37;
+  --border: #020381;
+  --accent: #020381;
+  --code: #dd0741;
+  --preformatted: #808080;
+  --marked: #020381;
+  --disabled: #02573d;
 }
 
 /* Override Simple.css Dark theme */
