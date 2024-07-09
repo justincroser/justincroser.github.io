@@ -8,11 +8,17 @@ layout: default
 
 #### Summary
 Name: Justin Croser
+
 Location: Adelaide, Australia
+
 Favorite music type: metal and hardcore punk
+
 Sports teams: Woodville West-Torrens, RB Leipzig, penrith panthers, red bull racing F1 team
+
 Political stance: Right-wing populist
+
 Podcast: <a href="https://rbltalk.com">RBL Talk</a> 
+
 
 #### Podcast Equipment
 Microphone: <a href="https://rode.com/en/microphones/usb/podmic-usb">RODE PODMIC-USB Broadcast Grade Dynamic Microphone</a>
