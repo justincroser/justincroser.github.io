@@ -16,11 +16,17 @@ Podcast: <a href="https://rbltalk.com">RBL Talk</a>
 
 #### Podcast Equipment
 Microphone: <a href="https://rode.com/en/microphones/usb/podmic-usb">RODE PODMIC-USB Broadcast Grade Dynamic Microphone</a>
+
 Pop filter: <a href="https://rode.com/en/accessories/windshields/ws14">RODE WS14</a>
+
 Audio interface: <a href="https://rode.com/en/interfaces-and-mixers/ai-series/ai-1">RODE AI-1</a>
+
 Boom arm: <a href="https://rode.com/en/accessories/stands-bars/psa1-plus">RODE PSA1+</a>
+
 Deskstands: <a href="https://rode.com/en/accessories/stands-bars/ds1">RODE DS1</a> and <a href="https://rode.com/en/accessories/stands-bars/ds2">RODE DS2</a>
+
 Headphones: <a href="https://rode.com/en/headphones/over-ear/nth-100?variant_sku=NTH100W">RODE NTH-100</a>
+
 Laptop: <a href="https://frame.work">Framework Laptop 16</a>
 
 #### Detailed
