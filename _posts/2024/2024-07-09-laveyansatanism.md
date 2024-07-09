@@ -11,15 +11,19 @@ Think of it as a form of "self-religion" or "self-spirituality" following life r
 
 ## Quick FAQ
 Q. Do you worship the devil?
+
 A. No, we believe in oneself and that you control every aspect of your life that you are not a slave to some imaginable higher power.
 
 Q. Do satanists sin?
+
 A. As stated below in "The Nine Satanic Statements" we believe in self gratification and you make yourself happy and everyone else's gratification doesn't matter. I personally do what makes me happy and keeping my partner happy is one aspect of it, we aren't all selfish.
 
 Q. Why is it called Satanism why not self-atheism?
+
 A. Founder Anton LaVey embraced the iconography of Satan and the label of "Satanist" because it shocked people into thinking, and its association with social nonconformity and rebellion against the dominant system. When asked about the name of his religion, he replied that "the reason it's called Satanism is because it's fun, it's accurate and it's productive".
 
 Q. Do you have any religious holidays?
+
 A. After one's own birthday, the two major Satanic holidays are Walpurgisnacht and Halloween. Other holidays celebrated by members include the two solstices, the two equinoxes, and Yule however it's up to the individial to claim any/all the holidays.
 
 ## The Nine Satanic Sins
