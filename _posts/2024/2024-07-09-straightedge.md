@@ -11,19 +11,25 @@ National Edge Day is a celebration founded by people who live straight edge life
 
 ## Quick FAQ on straight edge and my straight edge lifestyle.
 Q. Why did you follow a straight edge lifestyle?
+
 A. My father is an alcoholic and I was also an alcoholic. I wanted to stop as I couldn't control my binge drinking and I always loved the straight edge hardcore music. Everything fit perfectly.
 
 Q. Did you use to drink?
+
 A. Yes, I was a binge drinker usually drinking way too many drinks 10+ and would drink beer and spirits mainly.
 
 Q. Can you claim being straight edge and start drinking again?
+
 A. No, once you claim edge that's it, you can't go back otherwise you'll be labeled as a fake, it truly is a way of life.
 
 Q. What date did you claim being straight edge?
+
 A. Friday 17th of May 2024.
 
 Q. What makes you straight edge?
+
 A. I do not drink alcohol, use tobacco/vaping, and use recreational drugs or prescription drugs. I do not engage in promiscuous or casual sex, I follow a pescetarian diet and do not consume caffeine in excess.
 
 Q. Can I still eat meat, drink caffeine, take prescription medicine and sleep around and be straight edge?
+
 A. Yes, the main thing about straight edge is clean living and not self abuse by drugs. As long as you refrain from consuming alcohol, using tobacco/vaping, popping pills like their PEZ candy and being dependent on caffeine such as coffee or energy drinks you're fine.
