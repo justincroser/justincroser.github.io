@@ -4,8 +4,6 @@ author: justin
 description: Explaining what straight edge is and why I am straight edge.
 layout: post
 ---
-
-#  What is straight edge?
 Straight edge (sometimes abbreviated as sXe or signified by XXX or simply X) is a subculture of hardcore punk whose adherents refrain from using alcohol, tobacco, and recreational drugs in reaction to the punk subculture's excesses. Some adherents refrain from engaging in promiscuous or casual sex, follow a vegetarian or vegan diet and do not consume caffeine or prescription drugs. The term "straight edge" was adopted from the 1981 song "Straight Edge" by the hardcore punk band Minor Threat.
 
 ## What is International Edge Day?
