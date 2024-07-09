@@ -4,10 +4,8 @@ author: justin
 description: Explaining what satanism and satanists are.
 layout: post
 ---
-
-#  Is LaVeyan Satanism occoult and devil worship?
-
 In short, No! You're thinking of Theistic Satanism also known as religious Satanism. I don't believe in angels, demons, god or the devil.
+
 ## So what exactly is LaVeyan Satanism?
 Think of it as a form of "self-religion" or "self-spirituality" following life rules set out in the satanic bible a book by Anton LaVey in 1969. In the book it explains "The Nine Satanic Statements" and "The Eleven Satanic Rules of the Earth" more on that below. I've always felt calling it a bible was always a stupid idea.
 
