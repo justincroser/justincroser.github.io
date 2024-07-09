@@ -44,6 +44,6 @@ Justin has a vast degree of knowledge in information technology including but no
 
 Justin has been fixing and building computers since the age of 10 and moved into consumer electronics at 15 starting to fix mobile devices. His first mobile device was an iPhone 3Gs in 2009 and successfully jailbroke it. He was a apple user full-time dabbling in android part-time including custom roms until 2024 and has since moved to android full-time.
 
-An advocate of free speech, open source and open web standards Justin believes in helping others who are less fortunate and people can't help themselves.
+An advocate of free speech, open source and open web standards Justin believes in helping others who are less fortunate and people who can't help themselves.
 
 Justin has often been described as outspoken, confrontational, sharp-tongued, anti-establishment, straight edge, and iconoclastic.
