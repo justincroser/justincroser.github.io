@@ -24,18 +24,19 @@ A. After one's own birthday, the two major Satanic holidays are Walpurgisnacht a
 
 ## The Nine Satanic Sins
 These "sins" outline characteristics Satanists should avoid:
-1. Stupidity
-2. Pretentiousness
-3. Solipsism
-4. Self-deceit
-5. Herd Conformity
-6. Lack of Perspective
-7. Forgetfulness of Past Orthodoxies
-8. Counterproductive Pride
-9. Lack of Aesthetics
+1. Stupidity<br />
+2. Pretentiousness<br />
+3. Solipsism<br />
+4. Self-deceit<br />
+5. Herd Conformity<br />
+6. Lack of Perspective<br />
+7. Forgetfulness of Past Orthodoxies<br />
+8. Counterproductive Pride<br />
+9. Lack of Aesthetics<br />
 
 ## The Eleven Satanic Rules of the Earth
 These outline the rules every single satanist should live by:
+
 1. Do not give opinions or advice unless you are asked.
 2. Do not tell your troubles to others unless you are sure they want to hear them.
 3. When in another's home, show them respect or else do not go there.
