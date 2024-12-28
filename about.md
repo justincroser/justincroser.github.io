@@ -13,7 +13,7 @@ Location: Adelaide, Australia
 
 Favorite music type: metal and hardcore punk
 
-Sports teams: Woodville West-Torrens, RB Leipzig, penrith panthers, red bull racing F1 team
+Sports teams: Woodville West-Torrens, RB Leipzig, south sydney rabbitohs, red bull racing F1 team
 
 Political stance: Right-wing populist
 
