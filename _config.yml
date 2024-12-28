@@ -6,7 +6,7 @@ author: Justin Croser
 description: Justin Croser's personal webpage
 lang: en
 locale: en_GB
-url: "https://justincroser.com"
+url: "https://justincroser.me"
 git_web_base: https://github.com/justincroser/justincroser.github.io/blob/HEAD/
 baseurl: ""
 permalink: :title
